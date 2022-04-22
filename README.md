@@ -6,7 +6,7 @@
 ### Explore bikeshare data
 
 ### Description
-This project explores XX bikeshare data from New York, Chicago, and Washington.
+This project explores bikeshare data from New York, Chicago, and Washington.
 Specifically it aims to answer the three following questions:
 * What is the average travel time for different genders in New York?
 * What is the most common day of the week for bikeshare rentals in Washington?
